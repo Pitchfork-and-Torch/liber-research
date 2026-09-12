@@ -13,7 +13,7 @@ INSTAR:
 - https://github.com/Pitchfork-and-Torch/instar
 - https://instar.jonbailey.xyz/
 
-## Last status (2026-08-15 ET)
+## Last status (2026-09-12 ET)
 
 - LP1 00-16 solved (community).
 - LP2 56 AN END and 57 PARABLE solved (community). Those English texts may be
@@ -23,6 +23,8 @@ INSTAR:
   running-key, periodic, columnar, word-unit, acrostic, homophonic.
 - A same-day Playfair / two-square / four-square pass also FAIL.
 - Public-web gauntlet scan 2026-08-15: NO_NEW_METHOD.
+- Gauntlet cycle 3, 2026-09-12: Mobius direction-reversal transposition on
+  onion 15-22 (261 trials, calibration passed): NULL_ATTACK.
 - No new public method since.
 
 Known public solved pages (LP1 00-16, LP2 56 AN END, LP2 57 PARABLE) are named
@@ -68,6 +70,7 @@ Skipped on purpose (not copied here):
 | [notes/homophonic-zkd-pass1.md](notes/homophonic-zkd-pass1.md) | zkdecrypto-lite pass 1. LP2 NOT SOLVED. |
 | [notes/playfair-pass1.md](notes/playfair-pass1.md) | Playfair / two-square / four-square pass 1. FAIL. |
 | [notes/anend-tor2web-cdx-pass1.md](notes/anend-tor2web-cdx-pass1.md) | AN END hex archive lookup. FAIL. Locators stripped. |
+| [notes/mobius-direction-reversal-pass1.md](notes/mobius-direction-reversal-pass1.md) | Mobius direction-reversal transposition on onion 15-22. NULL_ATTACK. |
 
 ## License
 
