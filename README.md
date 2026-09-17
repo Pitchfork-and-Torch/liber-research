@@ -23,6 +23,13 @@ INSTAR:
   running-key, periodic, columnar, word-unit, acrostic, homophonic.
 - A same-day Playfair / two-square / four-square pass also FAIL.
 - Public-web gauntlet scan 2026-08-15: NO_NEW_METHOD.
+- 2026-09-17: the 256-value sexagesimal block (onion 32-34) as a transposition
+  instruction over onion 33-39 (column order, cell permutation, skip schedule,
+  32x8 shape; 536 untranspositions), scored by column IOC at widths 8, 32, 60,
+  256 against a 60-block null; five planted controls passed: NULL_ATTACK. The
+  block is now burned on both text-side readings (additive key, PR #3;
+  permutation, this pass). Treat it as binary key material for something
+  other than the rune text.
 - No new public method since.
 
 Known public solved pages (LP1 00-16, LP2 56 AN END, LP2 57 PARABLE) are named
@@ -68,6 +75,7 @@ Skipped on purpose (not copied here):
 | [notes/homophonic-zkd-pass1.md](notes/homophonic-zkd-pass1.md) | zkdecrypto-lite pass 1. LP2 NOT SOLVED. |
 | [notes/playfair-pass1.md](notes/playfair-pass1.md) | Playfair / two-square / four-square pass 1. FAIL. |
 | [notes/anend-tor2web-cdx-pass1.md](notes/anend-tor2web-cdx-pass1.md) | AN END hex archive lookup. FAIL. Locators stripped. |
+| [notes/sexagesimal-block-transposition-pass1.md](notes/sexagesimal-block-transposition-pass1.md) | Sexagesimal 256-value block as transposition instruction on onion 33-39, column-IOC test. NULL_ATTACK. |
 
 ## License
 
