@@ -69,6 +69,8 @@ Skipped on purpose (not copied here):
 | [notes/playfair-pass1.md](notes/playfair-pass1.md) | Playfair / two-square / four-square pass 1. FAIL. |
 | [notes/anend-tor2web-cdx-pass1.md](notes/anend-tor2web-cdx-pass1.md) | AN END hex archive lookup. FAIL. Locators stripped. |
 
+| [notes/cook-2026-09-17-mobius-15-22.md](notes/cook-2026-09-17-mobius-15-22.md) | Cook 2026-09-17. Mobius direction-reversal on onion 15–22. NULL_ATTACK. |
+
 ## License
 
 MIT. Copyright (c) 2026 Pitchfork-and-Torch.
