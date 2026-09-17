@@ -23,6 +23,10 @@ INSTAR:
   running-key, periodic, columnar, word-unit, acrostic, homophonic.
 - A same-day Playfair / two-square / four-square pass also FAIL.
 - Public-web gauntlet scan 2026-08-15: NO_NEW_METHOD.
+- 2026-09-17: the 256-value sexagesimal block (onion 32-34) as a running
+  key over onion 32-39, five readings, three orderings, tiled and one-shot
+  at every offset (517,896 decrypts, calibration and three positive controls
+  passed, 60-block null): NULL_ATTACK.
 - No new public method since.
 
 Known public solved pages (LP1 00-16, LP2 56 AN END, LP2 57 PARABLE) are named
@@ -68,6 +72,7 @@ Skipped on purpose (not copied here):
 | [notes/homophonic-zkd-pass1.md](notes/homophonic-zkd-pass1.md) | zkdecrypto-lite pass 1. LP2 NOT SOLVED. |
 | [notes/playfair-pass1.md](notes/playfair-pass1.md) | Playfair / two-square / four-square pass 1. FAIL. |
 | [notes/anend-tor2web-cdx-pass1.md](notes/anend-tor2web-cdx-pass1.md) | AN END hex archive lookup. FAIL. Locators stripped. |
+| [notes/sexagesimal-block-key-pass1.md](notes/sexagesimal-block-key-pass1.md) | Sexagesimal 256-value block as running key on onion 32-39. NULL_ATTACK. |
 
 ## License
 
