@@ -15,6 +15,7 @@ INSTAR:
 
 ## Last status (2026-09-17 ET)
 
+- Wing-and-Tree leaf-order / branch-order on onion 27-32, pass 1. NULL_ATTACK.
 - Cross-height rail-fence on onion 0-2, pass 1. NULL_ATTACK.
 - Mayfly GP-direction (numbers-as-direction) on onion 23-26, pass 1. NULL_ATTACK.
 - Sexagesimal block as transposition instruction on onion 33-39, pass 1. NULL_ATTACK.
@@ -78,6 +79,7 @@ Skipped on purpose (not copied here):
 | [notes/sexagesimal-block-transposition-pass1.md](notes/sexagesimal-block-transposition-pass1.md) | Sexagesimal block as transposition instruction on onion 33-39, pass 1. NULL_ATTACK. |
 | [notes/mayfly-numbers-direction-pass1.md](notes/mayfly-numbers-direction-pass1.md) | Mayfly GP-direction (numbers-as-direction) on onion 23-26, pass 1. NULL_ATTACK. |
 | [notes/cross-height-rail-pass1.md](notes/cross-height-rail-pass1.md) | Cross-height rail-fence on onion 0-2, pass 1. NULL_ATTACK. |
+| [notes/wing-tree-leaf-order-pass1.md](notes/wing-tree-leaf-order-pass1.md) | Wing-and-Tree leaf-order / branch-order on onion 27-32, pass 1. NULL_ATTACK. |
 
 ## License
 
