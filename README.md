@@ -15,6 +15,7 @@ INSTAR:
 
 ## Last status (2026-09-17 ET)
 
+- Cross-height rail-fence on onion 0-2, pass 1. NULL_ATTACK.
 - Mayfly GP-direction (numbers-as-direction) on onion 23-26, pass 1. NULL_ATTACK.
 - Sexagesimal block as transposition instruction on onion 33-39, pass 1. NULL_ATTACK.
 - Sexagesimal block as running key on onion 32-39, pass 1. NULL_ATTACK.
@@ -72,14 +73,11 @@ Skipped on purpose (not copied here):
 | [notes/homophonic-zkd-pass1.md](notes/homophonic-zkd-pass1.md) | zkdecrypto-lite pass 1. LP2 NOT SOLVED. |
 | [notes/playfair-pass1.md](notes/playfair-pass1.md) | Playfair / two-square / four-square pass 1. FAIL. |
 | [notes/anend-tor2web-cdx-pass1.md](notes/anend-tor2web-cdx-pass1.md) | AN END hex archive lookup. FAIL. Locators stripped. |
-
 | [notes/mobius-direction-reversal-pass1.md](notes/mobius-direction-reversal-pass1.md) | Mobius direction-reversal transposition on onion 15-22. NULL_ATTACK. |
-
 | [notes/sexagesimal-block-key-pass1.md](notes/sexagesimal-block-key-pass1.md) | Sexagesimal block as running key on onion 32-39, pass 1. NULL_ATTACK. |
-
 | [notes/sexagesimal-block-transposition-pass1.md](notes/sexagesimal-block-transposition-pass1.md) | Sexagesimal block as transposition instruction on onion 33-39, pass 1. NULL_ATTACK. |
-
 | [notes/mayfly-numbers-direction-pass1.md](notes/mayfly-numbers-direction-pass1.md) | Mayfly GP-direction (numbers-as-direction) on onion 23-26, pass 1. NULL_ATTACK. |
+| [notes/cross-height-rail-pass1.md](notes/cross-height-rail-pass1.md) | Cross-height rail-fence on onion 0-2, pass 1. NULL_ATTACK. |
 
 ## License
 
