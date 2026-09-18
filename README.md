@@ -13,8 +13,9 @@ INSTAR:
 - https://github.com/Pitchfork-and-Torch/instar
 - https://instar.jonbailey.xyz/
 
-## Last status (2026-08-15 ET)
+## Last status (2026-09-17 ET)
 
+- Mayfly GP-direction (numbers-as-direction) on onion 23-26, pass 1. NULL_ATTACK.
 - Sexagesimal block as transposition instruction on onion 33-39, pass 1. NULL_ATTACK.
 - Sexagesimal block as running key on onion 32-39, pass 1. NULL_ATTACK.
 - Gauntlet cycle 3: Mobius direction-reversal on onion 15-22. NULL_ATTACK.
@@ -77,6 +78,8 @@ Skipped on purpose (not copied here):
 | [notes/sexagesimal-block-key-pass1.md](notes/sexagesimal-block-key-pass1.md) | Sexagesimal block as running key on onion 32-39, pass 1. NULL_ATTACK. |
 
 | [notes/sexagesimal-block-transposition-pass1.md](notes/sexagesimal-block-transposition-pass1.md) | Sexagesimal block as transposition instruction on onion 33-39, pass 1. NULL_ATTACK. |
+
+| [notes/mayfly-numbers-direction-pass1.md](notes/mayfly-numbers-direction-pass1.md) | Mayfly GP-direction (numbers-as-direction) on onion 23-26, pass 1. NULL_ATTACK. |
 
 ## License
 
