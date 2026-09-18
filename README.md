@@ -15,6 +15,7 @@ INSTAR:
 
 ## Last status (2026-09-17 ET)
 
+- Branches binary-fork / L-R half-merge on onion 8-14, pass 1. NULL_ATTACK.
 - Spirals spiral-order / ring-order on onion 3-7, pass 1. NULL_ATTACK.
 - Wing-and-Tree leaf-order / branch-order on onion 27-32, pass 1. NULL_ATTACK.
 - Cross-height rail-fence on onion 0-2, pass 1. NULL_ATTACK.
@@ -82,6 +83,7 @@ Skipped on purpose (not copied here):
 | [notes/cross-height-rail-pass1.md](notes/cross-height-rail-pass1.md) | Cross-height rail-fence on onion 0-2, pass 1. NULL_ATTACK. |
 | [notes/wing-tree-leaf-order-pass1.md](notes/wing-tree-leaf-order-pass1.md) | Wing-and-Tree leaf-order / branch-order on onion 27-32, pass 1. NULL_ATTACK. |
 | [notes/spirals-order-pass1.md](notes/spirals-order-pass1.md) | Spirals spiral-order / ring-order on onion 3-7, pass 1. NULL_ATTACK. |
+| [notes/branches-fork-order-pass1.md](notes/branches-fork-order-pass1.md) | Branches binary-fork / L-R half-merge on onion 8-14, pass 1. NULL_ATTACK. |
 
 ## License
 
